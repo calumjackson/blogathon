@@ -2,3 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Calum's Blogsite!"
 theme = "ananke"
+
+
+publishDir = "build"
+
+

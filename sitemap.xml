@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://calumjackson.github.io/blogathon/posts/my-first-post/</loc>
+    <lastmod>2019-03-09T16:41:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://calumjackson.github.io/blogathon/</loc>
+    <lastmod>2019-03-09T16:41:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://calumjackson.github.io/blogathon/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://calumjackson.github.io/blogathon/posts/</loc>
+    <lastmod>2019-03-09T16:41:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calumjackson.github.io/blogathon/tags/</loc>
     <priority>0</priority>
   </url>
   

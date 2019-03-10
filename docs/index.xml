@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calum&#39;s Blogsite!</title>
-    <link>https://calumjackson.github.io/</link>
+    <link>https://calumjackson.github.io/blogathon/</link>
     <description>Recent content on Calum&#39;s Blogsite!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Mar 2019 16:41:20 +0000</lastBuildDate>
     
-	<atom:link href="https://calumjackson.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calumjackson.github.io/blogathon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://calumjackson.github.io/posts/my-first-post/</link>
+      <link>https://calumjackson.github.io/blogathon/posts/my-first-post/</link>
       <pubDate>Sat, 09 Mar 2019 16:41:20 +0000</pubDate>
       
-      <guid>https://calumjackson.github.io/posts/my-first-post/</guid>
+      <guid>https://calumjackson.github.io/blogathon/posts/my-first-post/</guid>
       <description>This will be Calum&amp;rsquo;s first blog post :)</description>
     </item>
     

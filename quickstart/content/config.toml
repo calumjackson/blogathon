@@ -1,5 +1,5 @@
 baseURL = "https://calumjackson.github.io/blogathon/"
 languageCode = "en-us"
 title = "Calum's Blogsite!"
-theme = "ananke"
+theme = "hugo-fresh"
 publishDir = "../build"
